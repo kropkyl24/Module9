@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  background: beige;
+}
+
+.dot {
+  border-radius: 50%; /* Makes dots circular */
+  position: absolute;
+}
+
+/* Additional styles for customization */
+#clearButton {
+  margin-bottom: 10px;
+}
+
+#optionsForm {
+  margin-bottom: 20px;
+}
